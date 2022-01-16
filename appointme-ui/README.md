@@ -1,18 +1,18 @@
 - its node js project and needs ```node 14``` to run properly 
 
--------------------
+
 
 - To build the application you need to use command ``` npm install ```
 
----------------------
+
 
 - command run the application once build is done ``` npm start ```
 
-----------------------
+
 
 - Applcation run on port ``` 3000  ```
 
-----------------------
+
 
 #### Important ponits to remember 
 
