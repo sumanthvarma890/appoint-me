@@ -16,7 +16,7 @@
 
 #### Important ponits to remember 
 
-in the base directory we have file .env, need to provide details of appointme-user-api ( )
+in the base directory we have file .env, need to provide details of [appointme-user-api](https://github.com/DeekshithSN/appoint-me/tree/master/appointme-api)
 
 ```
 REACT_APP_HI = hi
